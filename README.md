@@ -3,6 +3,8 @@
 **Author:** Agnese Enrica Picchio
 **Supervisor:** Dr Fabrizio Smeraldi
 
+This project was developed by Agnese Enrica Picchio as parte of her Final Project for the MSc Computer Science (Conversion) course at Queen Mary University of London.
+
 ## Included files
 **Main system**
 * `empathetic_fitting_room_controller.ipynb`: main adaptive-condition controller (PID loop, sensor/light/audio pipeline);
