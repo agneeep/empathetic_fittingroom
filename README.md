@@ -46,8 +46,3 @@ The core system notebooks (`empathetic_fitting_room_controller.ipynb`, `static_c
 The analysis notebooks require the session CSVs and `participant_info.csv`, which are excluded per the note above.
 
 
-## Generative AI use
-
-See the dissertation's Appendix F (Generative AI: Student Accountability Statement) for full disclosure. AI-assisted files are individually marked with a header comment.
-
-
