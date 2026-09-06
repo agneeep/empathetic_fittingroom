@@ -23,7 +23,7 @@
 
 
 ## Files NOT included
-The session CSVs (per-participant adaptive/static logs), interview transcripts, completed SAM questionnaire sheets, and `participant_info.csv` are **not included**, consistent with the data access terms agreed with participants (see Reflective Essay, Section 6), since the second examiner was not named as an authorised party in the consent form.
+The session CSVs (per-participant adaptive/static logs), interview transcripts, completed SAM questionnaire sheets, and `participant_info.csv` are **not included**, consistent with the data access terms agreed with participants.
 
 All analysis notebooks retain their originally executed output cells, so results remain visible and verifiable by inspection without requiring the raw data.
 
