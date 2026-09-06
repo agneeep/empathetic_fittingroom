@@ -21,9 +21,6 @@
 **Test data**
 * `testing_session.csv`: the researcher's own self-testing session data, used by `plot_comparison_graphs.ipynb` to produce the control-strategy comparison (Fig. 4). Not participant data, so not subject to consent-based access restrictions.
 
-**Ethics documentation**
-* Redacted, signed consent forms (initials only), included at the supervisor's request in the *REDACTED consent forms* folder.
-
 
 ## Files NOT included
 The session CSVs (per-participant adaptive/static logs), interview transcripts, completed SAM questionnaire sheets, and `participant_info.csv` are **not included**, consistent with the data access terms agreed with participants (see Reflective Essay, Section 6), since the second examiner was not named as an authorised party in the consent form.
