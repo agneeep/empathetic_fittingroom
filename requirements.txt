@@ -1,0 +1,20 @@
+# The Empathetic Fitting Room - Python dependencies
+# Install with: pip install -r requirements.txt
+# Tested with Python 3.13.5
+
+# Running the notebooks
+jupyter==1.1.1
+
+# Core system (hardware pipeline)
+bleak==3.0.2
+bleakheart==0.2.0
+HueBLE==2.2.2
+pygame==2.6.1
+
+# Analysis notebooks
+scipy==1.15.3
+pingouin==0.6.1
+
+# Plotting notebooks
+matplotlib==3.10.0
+numpy==2.1.3
