@@ -1,10 +1,7 @@
 # The Empathetic Fitting Room: Supporting Material
 
 **Author:** Agnese Enrica Picchio
-**Student ID:** 251018333
 **Supervisor:** Dr Fabrizio Smeraldi
-**Course:** MSc Computer Science (Conversion)
-
 
 ## Included files
 **Main system**
